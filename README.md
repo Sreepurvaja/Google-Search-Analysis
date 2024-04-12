@@ -31,6 +31,8 @@ This Flask application allows users to analyze Google search trends based on key
 
 ## Screenshots
 
+![google search analysis](https://github.com/Sreepurvaja/Google-Search-Analysis/assets/99593891/ea5847db-a84a-4868-a138-ac6b532ca07c)
+
 
 
 
